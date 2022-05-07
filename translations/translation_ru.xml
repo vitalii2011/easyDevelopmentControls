@@ -198,7 +198,7 @@
         <text name="easyDevControls_teleportTitle" text="Телепорт"/>
         <text name="easyDevControls_teleportFormatedTitle" text="Телепортация %sа"/>
         <text name="easyDevControls_teleportMapSelect" text="Выбрать на карте"/>
-        <text name="easyDevControls_flipVehiclesTitle" text="Подбросить транспорт"/>
+        <text name="easyDevControls_flipVehiclesTitle" text="Вращение транспорта"/>
         <text name="easyDevControls_deleteObjectsKeyTitle" text="Удаление объектов"/>
         <text name="easyDevControls_setFOVAngleTitle" text="Изменить поле зрения"/>
         <text name="easyDevControls_setQualityTitle" text="Дальность прорисовки"/>
@@ -209,17 +209,17 @@
 
         <!-- General Frame Info -->
         <text name="easyDevControls_addMoneyInfo" text="%s - Добавлено на счет."/>
-        <text name="easyDevControls_removeMoneyInfo" text="%s - Списано со счета."/>
-        <text name="easyDevControls_setMoneyInfo" text="Состояние счета %s."/>
-        <text name="easyDevControls_flightModeToggleInfo" text="Режим полета: %s"/>
-        <text name="easyDevControls_flightModeStateOffInfo" text="Полет: %s"/>
-        <text name="easyDevControls_flightModeStateOnInfo" text="Полет: %s  (Изменение высоты полета клавишами Q и E)"/>
+        <text name="easyDevControls_removeMoneyInfo" text="%s - Списано со счёта."/>
+        <text name="easyDevControls_setMoneyInfo" text="Состояние счёта %s."/>
+        <text name="easyDevControls_flightModeToggleInfo" text="Режим полёта: %s"/>
+        <text name="easyDevControls_flightModeStateOffInfo" text="Полёт: %s"/>
+        <text name="easyDevControls_flightModeStateOnInfo" text="Полёт: %s  (Изменение высоты полёта клавишами Q и E)"/>
         <text name="easyDevControls_hudVisibilityInfo" text="Отображение HUD: %s"/>
         <text name="easyDevControls_hudInputOffInfo" text="Взаимодействие с HUD: Выключено."/>
         <text name="easyDevControls_hudInputOnInfo" text="Взаимодействие с HUD: Включено. (переключайте отображение HUD с помощью клавиши '%s')"/>
-        <text name="easyDevControls_teleportPlayerFieldInfo" text="Игрок успешно перемещен на поле %s."/>
+        <text name="easyDevControls_teleportPlayerFieldInfo" text="Игрок успешно перемещён на поле %s."/>
         <text name="easyDevControls_teleportVehiclesFieldInfo" text="Перемещено %d транспортных средств на поле %s."/>
-        <text name="easyDevControls_teleportPlayerInfo" text="Игрок успешно перемещен на координаты %s %s."/>
+        <text name="easyDevControls_teleportPlayerInfo" text="Игрок успешно перемещён на координаты %s %s."/>
         <text name="easyDevControls_teleportVehiclesInfo" text="Перемещено %d транспортных средств на координаты %s %s."/>
         <text name="easyDevControls_flipVehiclesInfo" text="Попытка исправить ориентацию транспортного средства и подключенного орудия."/>
         <text name="easyDevControls_deleteObjectsKeyInfo" text="Удаление объектов с помощью назначенной клавиши (%s) %s"/>
